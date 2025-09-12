@@ -23,7 +23,6 @@
 
 ---
 
-### 🖥 Terminal Vibe Snapshot
 ```text
 > initializing inverse-fusion
   loading vision encoder ... ok
