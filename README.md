@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-<h1 align="center">Hi, I'm Daniel (Zhan) 🧪</h1>
+<h1 align="center">Hi, I'm Xuhui (Daniel) Zhan 🧪</h1>
 <h3 align="center">Machine Learning Engineer · Software Development Engineer · Machine Learning Researcher</h3>
 
 <p align="center">
