@@ -35,11 +35,12 @@
 ---
 
 ### 🚀 What I Do
-I turn research prototypes into robust, scalable systems at the intersection of ML and engineering.
+Currently a machine learning engineer at Treverse LLC (A reverse logitstic company in Nashville). I make things happen in the intersection of research and engineering.
 
 - Tackle difficult or fun problems
-- Efficient training and deployable inference pathways
-- Clean abstractions bridging research and production
+- Get things done nicely and efficiently
+- Think creatively for all sorts of things
+
 
 ---
 
