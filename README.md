@@ -77,7 +77,6 @@ Les is Mor
 Proud father of a lovely cat named Mino
 Video game player and lover
 Enjoy playing basketball and working out
-
 ```
 
 ---
