@@ -26,9 +26,9 @@
 ```text
 > initializing inverse-fusion
   loading vision encoder ... ok
-  loading language encoder ... ok
+  loading language backbone ... ok
   skipping alignment pretraining ... ✅
-  constructing inverse projection graph ... done
+  constructing inverse-projection fusion ... done
   status: READY FOR REASONING
 ```
 
@@ -37,8 +37,7 @@
 ### 🚀 What I Do
 I turn research prototypes into robust, scalable systems at the intersection of ML and engineering.
 
-- Alignment-free multi-modal model design
-- Preserving modality identity during fusion
+- Tackle difficult or fun problems
 - Efficient training and deployable inference pathways
 - Clean abstractions bridging research and production
 
@@ -62,22 +61,22 @@ Core principles:
 ---
 
 ### 🧪 Current Focus
-- Alternative fusion strategies with minimal pre-alignment
-- Evaluating representation drift under partial supervision
-- Lightweight reasoning layers atop preserved modality embeddings
+- New architectures for multi-modality models
+- New architecutres for general deep learning
+- Robots with real capabilities for everyday tasks
 
 ---
 
 ### 💡 Philosophy
-Bigger isn’t always smarter. Architectural restraint plus modality integrity can outperform brute-force pretraining when guided by principled interfaces.
-
+Les is Mor
 ---
 
 ### 🎨 Fun Corner
 ```text
-Inverse Fusion Status: ACTIVE
-Entropy Budget: within tolerance
-Curiosity Engine: overheated (cooldown not initiated)
+Proud father of a lovely cat named Mino
+Video game player and lover
+Like playing basketball and working out
+
 ```
 
 ---
