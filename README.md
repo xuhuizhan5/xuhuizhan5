@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Xuhui (Daniel) Zhan 🧪</h1>
-<h3 align="center">Applied Scientist</h3>
+<h3 align="center">Applied Scientist • Software Development Engineer • Machine Learning Engineer</h3>
 
 <p align="center">
   <a href="https://xuhuizhan5.github.io">🌐 Portfolio</a> •
