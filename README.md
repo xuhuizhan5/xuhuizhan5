@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Infra-AWS%20%7C%20Kubernetes-orange?style=flat-square" />
 </p>
 
----
+<!-----
 
 ```text
 > initializing inverse-fusion
@@ -30,7 +30,7 @@
   skipping alignment pretraining ... ✅
   constructing inverse-projection fusion ... done
   status: READY FOR REASONING
-```
+```-->
 
 ---
 
