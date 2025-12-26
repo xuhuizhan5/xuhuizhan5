@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://xuhuizhan5.github.io">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/danielzhandatascience/">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/danielzhanaiml/">🔗 LinkedIn</a>
 </p>
 
 <p align="center">
