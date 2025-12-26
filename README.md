@@ -56,7 +56,7 @@ Core principles:
 ### 🛠 Stack & Tools
 - Languages: Python, Go
 - ML Frameworks: PyTorch (primary), JAX (on deck)
-- Infra / Ops: AWS, Kubernetes
+- Infra / Ops: Kubernetes, Airflow, Terraform, ArgoCD, Github Actions, AWS, GCP
 - Patterns: Multi-modality, representation learning, efficiency
 
 ---
