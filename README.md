@@ -22,6 +22,7 @@
 </p>
 
 <!-----
+---
 
 ### 🚀 What I Do
 Currently an applied scientist at Treverse LLC (A reverse logitstic company in Nashville). I make things happen in the intersection of research and engineering.
