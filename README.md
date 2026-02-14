@@ -23,17 +23,6 @@
 
 <!-----
 
-```text
-> initializing inverse-fusion
-  loading vision encoder ... ok
-  loading language backbone ... ok
-  skipping alignment pretraining ... ✅
-  constructing inverse-projection fusion ... done
-  status: READY FOR REASONING
-```-->
-
----
-
 ### 🚀 What I Do
 Currently an applied scientist at Treverse LLC (A reverse logitstic company in Nashville). I make things happen in the intersection of research and engineering.
 
