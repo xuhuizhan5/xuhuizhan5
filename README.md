@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Core-Python%20%7C%20Go-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frameworks-PyTorch%20%7C%20JAX%20(on%20deck)-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frameworks-PyTorch%20%7C%20JAX-ff69b4?style=flat-square" />
   <img src="https://img.shields.io/badge/Infra-AWS%20%7C%20Kubernetes-orange?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=xuhuizhan5&style=flat-square&color=0e75b6" alt="Profile views" />
 </p>
